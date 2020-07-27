@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    align-content: center;
+}
+.webpage{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+    background-color: black;
+    color: aliceblue;
+    place-content: 140px;
+}
